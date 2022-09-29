@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LitJSON", "LitJson\LitJSON.csproj", "{86EC204F-9A2B-4CAE-978A-4EAD998A8C26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86EC204F-9A2B-4CAE-978A-4EAD998A8C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86EC204F-9A2B-4CAE-978A-4EAD998A8C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86EC204F-9A2B-4CAE-978A-4EAD998A8C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86EC204F-9A2B-4CAE-978A-4EAD998A8C26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7EAAD29-C9BE-4BD4-B616-905110E6B9EC}
+	EndGlobalSection
+EndGlobal
