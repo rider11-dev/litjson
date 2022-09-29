@@ -34,11 +34,11 @@ namespace LitJson
         public long     GetLong ()     { return 0L; }
         public string   GetString ()   { return ""; }
 
-        public void SetBoolean  (bool val)      {}
-        public void SetDouble   (double val)    {}
-        public void SetInt      (int val)       {}
+        public void SetBoolean  (string val)      {}
+        public void SetDouble   (string val)    {}
+        public void SetInt      (string val)       {}
         public void SetJsonType (JsonType type) {}
-        public void SetLong     (long val)      {}
+        public void SetLong     (string val)      {}
         public void SetString   (string val)    {}
 
         public string ToJson ()                  { return ""; }

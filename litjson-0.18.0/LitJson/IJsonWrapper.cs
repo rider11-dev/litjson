@@ -47,11 +47,11 @@ namespace LitJson
         long     GetLong ();
         string   GetString ();
 
-        void SetBoolean  (bool val);
-        void SetDouble   (double val);
-        void SetInt      (int val);
+        void SetBoolean  (string val);
+        void SetDouble   (string val);
+        void SetInt      (string val);
         void SetJsonType (JsonType type);
-        void SetLong     (long val);
+        void SetLong     (string val);
         void SetString   (string val);
 
         string ToJson ();
